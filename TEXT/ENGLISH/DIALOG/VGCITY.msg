@@ -1,0 +1,1 @@
+{100}{}{Die strahlenden Lichter des Clean City locken mit Pracht und Arroganz.}

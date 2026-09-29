@@ -1,0 +1,2 @@
+{100}{}{Sklavenstadt empfängt ihre Gäste mit den Schreien der Sklavenhändler, dem Pfeifen der Peitschen und dem Stöhnen der Unterdrückten.}
+{101}{}{Dank dir haben die Sklaven den Pferch verlassen. Sklavenstadt ist jetzt verlassen.}

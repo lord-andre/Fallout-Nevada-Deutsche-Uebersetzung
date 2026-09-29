@@ -1,0 +1,1 @@
+{100}{}{Vor dir liegen die hässlichsten Slums, die du je gesehen hast. Selbst Pestratten würden es verschmähen, hier zu leben.}

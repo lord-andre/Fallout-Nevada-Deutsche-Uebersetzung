@@ -1,0 +1,1 @@
+{100}{}{Diese lebhafte Gegend versprüht den Geist von Freiheit und Rock'n'Roll.}

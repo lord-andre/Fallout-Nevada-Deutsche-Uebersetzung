@@ -1,0 +1,1 @@
+{100}{}{Du betrittst das Vorstadtgebiet von New Vegas.}

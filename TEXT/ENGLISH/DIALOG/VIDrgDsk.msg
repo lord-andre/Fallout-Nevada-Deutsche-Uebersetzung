@@ -1,0 +1,1 @@
+{100}{}{Die Informationen auf dem Holodisk helfen dir ohne funktionierendes Radio nicht weiter.} 
