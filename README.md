@@ -9,3 +9,8 @@ Um Fallout Nevada auf Deutsch spielen zu können befolge folgende Schritte:
 4) Entpacke die Zip in den patch Ordner.
 
 Fertig, sollte alles, bis auf die Stimmen deutsch sein.
+
+---
+
+Du willst beim  Übersetzen helfen?
+Anleitung dazu folgt, [hier](https://drive.google.com/file/d/1xjwR7QsuIUk98lL3aPazJY3D_KhRqcs2/view?usp=sharing) jedoch schonmal die englischen Texte zum Download.
