@@ -1,0 +1,1 @@
+{100}{}{Auf den ersten Blick sind es gewöhnliche Ruinen. Aber darin könnte sich jeder verstecken.}

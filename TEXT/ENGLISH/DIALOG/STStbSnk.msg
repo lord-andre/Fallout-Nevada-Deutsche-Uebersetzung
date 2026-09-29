@@ -1,0 +1,1 @@
+{100}{}{Für das erfolgreiche taktische Eindringen in den Rücken des Feindes erhältst du 300 Erfahrungspunkte und +2 auf deine Schleichen-Fertigkeit.}
