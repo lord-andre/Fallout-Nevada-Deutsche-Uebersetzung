@@ -1,0 +1,1 @@
+{100}{}{Das Lesen der Holodisk bringt dir einen Erfahrungspunkt ein.}

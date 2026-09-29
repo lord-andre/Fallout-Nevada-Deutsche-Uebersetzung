@@ -1,0 +1,1 @@
+{100}{}{Du hast eine verlassene, halb zerstörte Siedlung betreten. Es ist zweifelhaft, ob hier noch jemand lebt.}

@@ -1,0 +1,1 @@
+{100}{}{Du erhältst eine hohe Dosis Strahlung.}

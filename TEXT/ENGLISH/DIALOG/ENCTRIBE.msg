@@ -1,0 +1,1 @@
+{100}{}{Du hast eine kleine Siedlung betreten. Mehrere Leute haben sich in der Mitte versammelt und schreien und johlen den Mann an, der an einen Pfahl gebunden ist.}

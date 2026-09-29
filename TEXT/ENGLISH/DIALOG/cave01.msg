@@ -1,0 +1,1 @@
+{100}{}{Du hörst Geräusche aus dem Inneren der Höhlen.}

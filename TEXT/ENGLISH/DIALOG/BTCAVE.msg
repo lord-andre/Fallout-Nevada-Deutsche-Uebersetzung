@@ -1,0 +1,1 @@
+{100}{}{Dieser Teil der Höhle wird von einer angenehmen, warmen Brise durchweht.}

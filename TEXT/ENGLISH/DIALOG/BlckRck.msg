@@ -1,0 +1,1 @@
+{100}{}{Es scheint, als hätte dieses kleine, ruhige Städtchen nichts zu befürchten. Doch wenn ein Fremder auftaucht, beginnen die Einheimischen miteinander zu tuscheln.}
