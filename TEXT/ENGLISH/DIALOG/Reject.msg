@@ -1,0 +1,1 @@
+{100}{}{Du betrittst die halb verlassene Bergbaustadt. Wundere dich nicht, wenn dir um Mitternacht ein paar umherwandernde Geister begegnen.}

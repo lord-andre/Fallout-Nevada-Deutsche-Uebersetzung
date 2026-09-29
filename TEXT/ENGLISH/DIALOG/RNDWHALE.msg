@@ -1,0 +1,1 @@
+{100}{}{Jemand mit einem riesigen Hackbeil ist vor nicht allzu langer Zeit hier vorbeigekommen. Die Spuren deuten darauf hin, dass er nach Westen unterwegs war.}

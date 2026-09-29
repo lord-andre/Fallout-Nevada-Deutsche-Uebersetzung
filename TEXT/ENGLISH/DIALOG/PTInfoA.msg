@@ -1,0 +1,1 @@
+{100}{}{Dieser Laden wurde vor langer Zeit geplündert.}

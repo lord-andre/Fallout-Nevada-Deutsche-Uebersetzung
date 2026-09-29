@@ -1,0 +1,1 @@
+{100}{}{Der Gestank der örtlichen Muellkippe lässt dich vor dem beißenden Geruch von verbranntem Gummi und Ruß zurückschrecken.}

@@ -1,0 +1,1 @@
+{100}{}{Das war der letzte Gecko in der Schlucht.}
