@@ -1,0 +1,1 @@
+{100}{}{Du zerlegst nutzlose Patronen und gewinnst etwas Schieﬂpulver.}

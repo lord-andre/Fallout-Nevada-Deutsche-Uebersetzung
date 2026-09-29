@@ -1,0 +1,1 @@
+{100}{}{Sieht aus, als hätten diese beiden sich vor dem Großen Krieg in der Schlucht verstecken wollen. Leider hat sie das nicht gerettet.}

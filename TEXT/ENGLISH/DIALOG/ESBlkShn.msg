@@ -1,0 +1,1 @@
+{100}{}{Dieser riesige Haufen alter Reifen versperrt dir den Weg. Du brauchst ungefähr fünf Pfund Sprengstoff, um ihn zu beseitigen.}

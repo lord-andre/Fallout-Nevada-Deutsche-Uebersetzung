@@ -1,0 +1,11 @@
+{100}{}{}
+{101}{}{Du siehst einen funktionierenden Computer. Er befindet sich jetzt im „Ruhezustand“.}
+
+#Îáùèå ğåïëèêè
+{110}{}{Dieser Computer läuft noch im Energiesparmodus. Auf dem Hauptterminal ist nur eine Aufzeichnung zu sehen – eine Anfrage, die über ein internes Netzwerk gesendet wurde.}
+{111}{}{[Nachricht lesen]}
+{112}{}{[Ende]}
+{113}{}{[Mehr]}
+{114}{}{Ich bin Corporal Dickens und schreibe diesen Eintrag für diejenigen, die nach uns in die Garnison kommen werden. Heute ist der 25. Oktober 2077. Gestern wurde die Stadt Hawthorne einem massiven Atomangriff durch die verdammten Roten ausgesetzt. Unser Sicherheitssystem konnte die Raketen gerade noch von der Stadt und der Garnison ablenken. In der Umgebung kam es zu mehreren Dutzend Atomexplosionen. Hawthorne wurde zu einer Zone starker Verstrahlung, da die Explosionen enorme Mengen radioaktiven Staubs aufgewirbelt haben. Und die Strahlenbelastung steigt ständig weiter.}
+{115}{}{Wir haben eine automatisierte Einheit zur Dekontaminierung des Gebiets gestartet, aber offenbar ist es zu spät. Die Einwohner der Stadt wissen nicht, wo sie vor dieser unsichtbaren Bedrohung Schutz suchen sollen. Der einzige örtliche Vault wurde bei den Bombenangriffen zerstört. Die meisten Zivilisten sind nach Reno und Las Vegas geflohen; diejenigen, die geblieben sind, sterben in ihren Häusern an der Strahlung. Über der Stadt liegt eine Ausgangssperre. Wir wissen nicht, was im Rest der Welt geschehen ist. Die Verbindungen zu anderen Militärstützpunkten und nach Washington sind abgebrochen. Vielleicht ist das der schlimmste Fall und das ganze Land liegt in Trümmern.}
+{116}{}{In Hawthorne zu bleiben ist unmöglich. Ich habe das Kommando übernommen und beschlossen, die Basis mit den Überresten der Garnison zu verlassen. Wir nehmen den Transporter, Vorräte, Proviant und Waffen mit und ziehen dann mit unseren Familien ins Landesinnere. So sind wir wahrscheinlich sicherer, als wenn wir hierbleiben. Wir werden das permanente Sicherheitssystem aktivieren, um Plünderungen zu verhindern. Man kann es nur an einem einzigen Ort deaktivieren – im Hangar V9. Gott steh uns bei. Gott steh euch bei.}
