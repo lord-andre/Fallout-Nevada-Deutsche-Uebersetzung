@@ -1,0 +1,6 @@
+1: Bürger!
+2: Bürger?!
+3: Können Sie mich hören?!
+4: Im Vault geschieht etwas Seltsames!
+5: Bitte kehren Sie zurück, bevor es zu spät ist.
+6: Wir sind... [das Signal verstummt]
