@@ -1,0 +1,1 @@
+{100}{}{Der Geigerzähler in deinem Pip-Boy warnt dich vor einer gefährlichen Strahlendosis: }

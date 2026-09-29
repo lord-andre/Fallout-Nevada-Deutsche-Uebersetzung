@@ -1,0 +1,1 @@
+{100}{}{Du lädst die Karte in deinen Pip-Boy. Damit wird das Reisen in dieser Gegend viel einfacher.}

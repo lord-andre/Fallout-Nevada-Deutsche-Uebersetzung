@@ -1,0 +1,1 @@
+{100}{}{Du stiehlst dreist das Eigentum eines anderen.}

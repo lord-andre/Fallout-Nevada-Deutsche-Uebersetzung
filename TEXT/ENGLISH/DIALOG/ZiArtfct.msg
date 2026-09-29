@@ -1,0 +1,1 @@
+{100}{}{Wenn du dieses Artefakt hältst, spürst du etwas Seltsames, als würde es deine Körperwärme aufsaugen.}

@@ -1,0 +1,2 @@
+{101}{}{Du versuchst, diese Bretter auseinanderzunehmen, aber ohne die richtigen Werkzeuge hast du einfach nicht genug Kraft dafür.}
+{102}{}{Mit roher Gewalt hast du die Bretter auseinandergenommen und den Weg freigeräumt.}
