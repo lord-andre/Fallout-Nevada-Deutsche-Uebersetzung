@@ -1,0 +1,1 @@
+{100}{}{Ein Erdrutsch versperrt dir den Weg. Es muss doch noch einen anderen Eingang zum unterirdischen Raum geben.}

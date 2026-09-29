@@ -1,0 +1,2 @@
+{100}{}{Du siehst ... einen Henker!}
+{101}{}{Du siehst einen riesigen Kerl mit einem Sack über dem Kopf und einer schmutzigen Schürze. Unter anderen Umständen könnte man ihn für einen Metzger halten, aber diesmal ist er ein Henker.}
