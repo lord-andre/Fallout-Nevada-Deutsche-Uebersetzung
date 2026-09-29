@@ -1,0 +1,13 @@
+#
+#   Messages from skilldex.c
+#
+{100}{}{FÄHIGKEITEN}
+{101}{}{ABBRECHEN}
+{102}{}{SCHLEICHEN}
+{103}{}{SCHLOSS KNACKEN}
+{104}{}{STEHLEN}
+{105}{}{FALLEN}
+{106}{}{ERSTE HILFE}
+{107}{}{ARZT}
+{108}{}{WISSENSCHAFT}
+{109}{}{REPARIEREN}
