@@ -1,0 +1,1 @@
+{100}{}{In der Platte findest du einen verschlossenen Safe, den du mit diesem Schlüssel öffnest.}

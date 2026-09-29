@@ -1,0 +1,2 @@
+{100}{}{Du siehst einen großen Hangar, übersät mit den Überresten toter Körper. Auf der anderen Seite ist eine kaum sichtbare Vault-Tür.}
+{101}{}{Du befindest dich auf der unteren Ebene der Vault. Nachdem die letzte Person gegangen war, verschlang die Dunkelheit diesen Ort.}

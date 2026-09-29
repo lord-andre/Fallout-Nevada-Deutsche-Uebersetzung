@@ -1,0 +1,1 @@
+{100}{}{Du betrittst einen heruntergekommenen Bahnhof.}

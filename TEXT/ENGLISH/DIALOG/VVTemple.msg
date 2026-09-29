@@ -1,0 +1,1 @@
+{100}{}{Du stehst vor der Tür zur Außenwelt. Was nun geschieht, wird deinen Vault für immer verändern.}

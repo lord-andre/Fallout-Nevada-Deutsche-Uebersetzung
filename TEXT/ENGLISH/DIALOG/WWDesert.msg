@@ -1,0 +1,1 @@
+{100}{}{Die Ruinen voraus sind unbewohnt. Aber den Abdrücken von Armeestiefeln nach zu urteilen, bist du hier nicht allein.}

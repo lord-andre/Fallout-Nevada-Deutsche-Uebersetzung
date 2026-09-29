@@ -1,0 +1,1 @@
+{100}{}{Vor dir liegt der Eingang zum verlassenen Vault. Du könntest schwören, dass dich jemand aus dem Dunkeln beobachtet.}

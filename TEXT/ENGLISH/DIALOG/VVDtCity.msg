@@ -1,0 +1,1 @@
+{100}{}{Diese Siedlung ist schon lange verlassen.}
