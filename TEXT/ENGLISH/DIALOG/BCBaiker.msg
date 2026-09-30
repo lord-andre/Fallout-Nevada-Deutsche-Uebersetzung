@@ -9,9 +9,9 @@
 {114}{}{Willst du mich beißen?}
 {115}{}{::rülpst::}
 {116}{}{Verdammt, heute bin ich schlecht gelaunt.}
-{117}{}{Mach einfach den Mund auf, und ich knall dich ab!}
+{117}{}{Mach den Mund auf, und ich knall dich ab!}
 {118}{}{Verdammt, Leute. Schon wieder einer!}
-{119}{}{Legt euch in den Bars nicht mit uns an, dort machen wir gern Ärger.}
+{119}{}{Kommt uns in den Bars nicht in die Quere, wir machen da gern Ärger.}
 {120}{}{Ich habe Jay Kukish schon lange nicht mehr gesehen.}
 
 #Pop-up dialogue
@@ -22,6 +22,8 @@
 {204}{}{Wir sind die Teufel auf Rädern!}
 {205}{}{Die beste Musik ist das Dröhnen unserer Motoren.}
 {206}{}{Benzin hat in unseren Adern schon lange das Blut ersetzt ...}
+#{206}Das Blut in unseren Adern wurde schon lange durch benzin ersetzt.
+#{206}In unseren Adern fließt schon lange Benzin.
 {207}{}{Unsere Essenz ist Brutalität, unser Gott ist Technik.}
 
 #Female character:
