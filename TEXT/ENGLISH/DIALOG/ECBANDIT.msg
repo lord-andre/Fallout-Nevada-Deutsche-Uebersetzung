@@ -12,7 +12,7 @@
 {204}{}{Ich krieg dich!}
 {205}{}{Hände hoch.}
 {206}{}{Hände hoch!}
-{207}{}{Keine Panik – das ist gleich vorbei.}
+{207}{}{Keine Panik – es ist in einer Minute vorbei.}
 {208}{}{Zeig mir deine Hände.}
 {209}{}{Gebt mir Deckung, Jungs.}
 
