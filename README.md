@@ -1,8 +1,10 @@
 # Fallout-Nevada-Deutsche-Uebersetzung
-Fallout Nevada in Deutsch
+## Fallout Nevada in Deutsch
 
 Diese deutsche Übersetzung wurde mithilfe von ChatGPT erstellt. 
+
 Sie wird noch geprüft und bei Bedarf verbessert. 
+
 Rückmeldungen und Korrekturvorschläge sind willkommen. 
 
 ---
@@ -19,6 +21,8 @@ Um Fallout Nevada auf Deutsch spielen zu können befolge folgende Schritte:
 8) Starte NevadaHD.exe
 
 Fertig, sollte alles, bis auf die Stimmen und Bilder, deutsch sein.
+
+Die Kinder, die in der deutschen Fallout-2-Version fehlen, sind in diesem Repository bereits enthalten. Ein zusätzlicher Kinder-Patch ist nicht erforderlich.
 
 ---
 
