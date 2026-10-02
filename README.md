@@ -3,7 +3,7 @@ Fallout Nevada in Deutsch
 
 Diese deutsche Übersetzung wurde mithilfe von ChatGPT erstellt. 
 Sie wird noch geprüft und bei Bedarf verbessert. 
-Rückmeldungen und Korrekturvorschläge sind willkommen.
+Rückmeldungen und Korrekturvorschläge sind willkommen. 
 
 ---
 
